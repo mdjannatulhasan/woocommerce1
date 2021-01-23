@@ -1,0 +1,4 @@
+2021-01-22T22:29:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce1\wp-content\plugins\elementor\includes\controls\color.php on line 6
+
+2021-01-22T22:31:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\woocommerce1\wp-includes\Requests\Transport\cURL.php on line 463
+
